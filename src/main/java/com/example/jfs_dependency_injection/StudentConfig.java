@@ -15,11 +15,11 @@ public class StudentConfig {
 
 
     public Student student1() {
-        return new Student(1L, "Jacin", "jtlabs777@gmail.com", LocalDate.of(1979, Month.FEBRUARY, 15));
+        return new Student(1L, "Jay", "jay@jay.com", LocalDate.of(1979, Month.FEBRUARY, 15));
     }
 
     public Student student2() {
-        return new Student(2L, "Ermoni Osborne", "moni.osborne@gmail.com", LocalDate.of(1990, Month.DECEMBER, 01));
+        return new Student(2L, "Joe", "joe@joe.com", LocalDate.of(1990, Month.DECEMBER, 01));
 
 
     }
